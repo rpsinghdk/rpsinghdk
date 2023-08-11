@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 🌱 I’m currently learning ... and practicing how to use GitHub
+### 🌱 I’m currently practicing how to use GitHub
 
 <!--
 **rpsinghdk/rpsinghdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Trying to make changes
+Trying to learn how to make changes
