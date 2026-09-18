@@ -1,19 +1,10 @@
-### Hi there 👋
+### Hi 👋
 
-### 🌱 I’m currently practicing how to use GitHub
+I work in print and graphic production, and build the internal systems the trade runs on —
+quotation and pricing, order intake and confirmation, production planning against real machine
+capacity, shop-floor execution, and fulfilment.
 
-<!--
-**rpsinghdk/rpsinghdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mostly Python, FastAPI and PostgreSQL, with local model inference for document extraction and
+analysis. Danish and English.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Trying to learn how to make changes
+Most of my work is in private repositories.
